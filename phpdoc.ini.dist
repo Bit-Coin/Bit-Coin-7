@@ -1,0 +1,14 @@
+files               = "*.php"
+ignore              = "CVS, .svn, .git, _compiled"
+source_path         = "./src"
+doclet              = standard
+overview            = readme.html
+package_comment_dir = ./
+public              = on
+d                   = "api"
+default_package     = "slimphp"
+windowtitle         = "slimphp"
+doctitle            = "slimphp: PHP 5.4 Ruby's Slim-like templates translator"
+header              = "slimphp"
+footer              = "slimphp"
+tree                = on
